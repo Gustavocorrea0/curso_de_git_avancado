@@ -1,11 +1,9 @@
-+------------------------------------------------------------------------------
-| > CURSO DE GIT E GITHUB - COMANDOS
-+------------------------------------------------------------------------------
-| > CONFIGURACAO GIT
-| > Versao do git = git --version
-| > Configuracao = git config --global --list
-| > Adicionar usuario = git config --global user.name "<nome-usuario>"
-| > Adicionar usuario = git config --global user.email <email>
+> CONFIGURACAO GIT
+
+      > Versao do git = git --version
+      > Configuracao = git config --global --list
+      > Adicionar usuario = git config --global user.name "<nome-usuario>"
+      > Adicionar usuario = git config --global user.email <email>
 +------------------------------------------------------------------------------
 | > INICIALIZACAO DE REPOSITORIO
 | > Iniciar o repositorio = git init
