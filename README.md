@@ -35,7 +35,7 @@
       > Arquivo que ignora outros arquivos = touch .gitignore
       > Adicionar o arquivo ignorado no git .gitignore
       
-> Manipulacao de branch(copia de um commit | linha paralela | arquivos criado em um branch ficam limitados a ela )
+> MANIPULACAO DE BRENCH(copia de um commit | linha paralela | arquivos criado em um branch ficam limitados a ela )
 
       > Listar branchs = git branch
       > Criar branch = git branch <nome-da-nova-branch>
